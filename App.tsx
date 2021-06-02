@@ -15,8 +15,3 @@ const App = () => {
 };
 
 export default App;
-
-// StatusBar es otro componente de reactNative, permite
-// modificar la barra de estados del movil, tanto ios como android
-
-// Con ctrl+espacio se abren propiedades del componente, ej barStyle
