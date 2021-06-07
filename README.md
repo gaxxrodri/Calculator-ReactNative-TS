@@ -10,4 +10,4 @@
 
 # Calculator-ReactNative
 
-A simple and functional calculator made in **TypeScript** with **React Native**, for iOS and Android devices
+A simple and functional mobile App calculator made in **TypeScript** with **React Native**, for iOS and Android devices
